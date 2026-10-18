@@ -1,0 +1,10 @@
+﻿metric,value
+Eligible delivered orders,96470.0
+On-time or early delivery rate (%),91.88763346117965
+Late delivery rate (%),8.112366538820359
+Average delivery days,12.558217098051975
+Late order count,7826.0
+Average delay days among late orders,9.551775917880569
+Median delay days among late orders,5.806481481481482
+Average review score: on-time or early,4.294292012144172
+Average review score: late,2.566505678109907
